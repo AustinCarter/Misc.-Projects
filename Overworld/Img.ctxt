@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Img()
+comment1.params=filename
+comment1.target=Img(java.lang.String)
+comment2.params=filename\ filetype
+comment2.target=Img(java.lang.String,\ java.lang.String)
+comment3.params=x\ y
+comment3.target=void\ setPosition(int,\ int)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=name
+comment5.target=javax.swing.ImageIcon\ loadImage(java.lang.String)
+numComments=6

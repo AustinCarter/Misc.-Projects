@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=code\ pressed
+comment0.target=void\ process(int,\ boolean)
+comment1.params=
+comment1.target=Overworld()
+comment10.params=g
+comment10.target=void\ paintComponent(java.awt.Graphics)
+comment10.text=public\ void\ interact()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ pr\ \=\ (int)(py/64);\r\n\ \ \ \ \ \ \ \ int\ pc\ \=\ (int)(px/64);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ System.out.printf("%d,%d\ \\n",pc,pr);\r\n\ \ \ \ \ \ \ \ if(map[pr][pc]\ \=\=\ 't')\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n}
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ loadMap()
+comment3.params=
+comment3.target=void\ completeMap()
+comment4.params=
+comment4.target=void\ printMap()
+comment5.params=key
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=key
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=key
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=void\ update()
+numComments=12
